@@ -12,7 +12,7 @@
 
 
 
-[linkedin]:[(https://www.linkedin.com/in/damadre-wheeler/)]
+
 
 <!--
 **DamadreDT/DamadreDT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
