@@ -1,6 +1,6 @@
 <h1>Hi, I'm Damadre! <br/><a href="https://github.com/DamadreDT">Software Developer and </a>, <a href="https://www.linkedin.com/in/damadre-wheeler/">IT Professional</a> <a </a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨🏾‍💻 Software Development Projects:</h2>
 
 
 <h2> </h2>
